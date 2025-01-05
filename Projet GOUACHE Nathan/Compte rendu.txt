@@ -1,0 +1,7 @@
+Pour la pièce de monnaie j'ai utilisé ce tuto : https://www.youtube.com/watch?v=MN063iKj6Jw&t=98s
+
+Pour le tonneau : https://www.youtube.com/watch?v=O4d6xpb8cJU
+
+Pour la découpe j'ai utilisé ma mémoire et j'ai fait la map uv puis je l'ai exportée sur GIMP puis j'ai mis l'image et ça marche
+
+Pour le projet perso j'ai utilisé ce tuto : https://www.youtube.com/watch?v=BcjPCjxsCZo&t=64s
